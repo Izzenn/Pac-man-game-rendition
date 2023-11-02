@@ -38,6 +38,9 @@ You can customize the game by modifying various parameters in the `pacman.py` sc
 - Python 3.x
 - Pygame
 
+## Gameplay Video
+
+Check out the gameplay video on [YouTube](https://youtu.be/36pX1PJSywc) to get a sneak peek of what SpaceGame has to offer!
 ## Credits
 
 This Pac-Man-Inspired Game project was created by [Mohammad Izen]. Feel free to contribute or provide feedback.
